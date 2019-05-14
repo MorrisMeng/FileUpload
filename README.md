@@ -10,6 +10,6 @@
 
 选取手机相册里的图片、拍照、选取iCloud里面的文件，进行上传。
 
-[详情请参考]()
+[详情请参考](https://blog.csdn.net/Morris_/article/details/90212673)
 
 
